@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\else_if\else_if\bin\Debug\netcoreapp2.1\else_if.deps.json
+C:\Users\Sirje\Desktop\else_if\else_if\bin\Debug\netcoreapp2.1\else_if.runtimeconfig.json
+C:\Users\Sirje\Desktop\else_if\else_if\bin\Debug\netcoreapp2.1\else_if.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\else_if\else_if\bin\Debug\netcoreapp2.1\else_if.dll
+C:\Users\Sirje\Desktop\else_if\else_if\bin\Debug\netcoreapp2.1\else_if.pdb
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.csproj.CoreCompileInputs.cache
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.dll
+C:\Users\Sirje\Desktop\else_if\else_if\obj\Debug\netcoreapp2.1\else_if.pdb
